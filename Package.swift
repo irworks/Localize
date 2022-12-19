@@ -1,5 +1,11 @@
 // swift-tools-version:5.0
-// The swift-tools-version declares the minimum version of Swift required to build this package.
+
+//  Package.swift
+//  KeychainAccess
+//
+//  Created by andresilvagomez on 2019/12/4.
+//  Copyright (c) 2019 andresilvagomez katsumi. All rights reserved.
+//
 import PackageDescription
 
 let package = Package(
